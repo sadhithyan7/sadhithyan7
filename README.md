@@ -31,14 +31,13 @@ I am an Electronics and Communication Engineering undergraduate building softwar
 
 <div align="center">
 
-[![GitHub Stats](https://api.github-readme-stats.org/api?username=sadhithyan7&show_icons=true&theme=radical&include_all_commits=true)](https://github.com/sadhithyan7)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=sadhithyan7&theme=radical)](https://github.com/sadhithyan7)
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sadhithyan7&theme=radical)](https://github.com/sadhithyan7)
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/adhitn?theme=radical&font=Syne&ext=activity)](https://leetcode.com/adhitn)
 
 </div>
-
-
 
 ## Featured Projects
 
